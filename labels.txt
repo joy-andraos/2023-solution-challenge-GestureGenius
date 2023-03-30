@@ -1,0 +1,18 @@
+0 Beautiful
+1 Bed
+2 Book
+3 Boss
+4 I
+5 I love
+6 I think
+7 Money
+8 I need
+9 Plate
+10 Sandwich
+11 Sorry
+12 Thank you
+13 You
+14 Proud
+15 Go
+16 Home
+17 I want
