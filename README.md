@@ -32,7 +32,7 @@ Once the data is collected and cleaned, the next step would be to train the mode
 # How to use it?
 1) Open PyCharm (Python IDE) or Visual Studio Code (since it supports python). 
 2) Download the necessary packages (use any Python version between 3.7 and 3.10 since the new versions do not support yet MediaPipe)
-3) Copy the main.py code, as well as labels.txt and keras_model.h5 available in this repo, and put them in a seperate folder than the main code
+3) Copy the test.py code, as well as labels.txt and keras_model.h5 available in this repo, and put them in a seperate folder than the main code
 4) Run the code and check for errors
 5) Try detecting signs from the available data set and have fun with it :)
 
